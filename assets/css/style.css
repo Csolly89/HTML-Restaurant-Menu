@@ -52,13 +52,13 @@ nav a:hover {
     color: darkred;
 }
 
-#banner {
+.banner {
     width: 100%;
     height: auto;
     background-color: white;
 }
 
-#banner img {
+.banner img {
     width: 60%;
     height: auto;
 }
